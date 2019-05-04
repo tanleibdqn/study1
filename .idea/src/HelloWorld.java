@@ -8,5 +8,6 @@ public class HelloWorld {
 		System.out.println("111111");
 		System.out.println("在idea当中进行编辑");
 		System.out.println("使用tanlei1bdqn账户又添加了一行代码。");
+        System.out.println("222222");
 	}
 }
